@@ -1,0 +1,2 @@
+# env
+zuri Django task
